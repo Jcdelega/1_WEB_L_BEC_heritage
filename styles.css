@@ -1,0 +1,34 @@
+*{
+    text-align: center;
+    background-color: seagreen;
+    font-family: "Protest Revolution", sans-serif;
+}
+body{
+    line-height: 1.5;
+}
+.bungee-spice-regular {
+    font-family: "Bungee Spice", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+p{
+    background-color: yellowgreen;
+}
+.p_description{
+    background-color: lightslategray;
+}
+#style_important{
+    color: yellowgreen;
+    background-color: black;
+    text-align: center;
+}
+li{
+    background-color: black;
+    color: teal !important;
+}
+.wrapped_card{
+    background-color: cornsilk;
+}
+img{
+   border: 4px solid crimson; 
+}
